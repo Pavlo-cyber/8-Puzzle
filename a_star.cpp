@@ -276,7 +276,6 @@ void Menu(vector<vector<int>>&matrix )
 }
 
 
-
 int main() {
     vector<vector<int>> matrix={{5,8,6},{3,1,4},{7,0,2}}; //start matrix, 0-represent empty position
     Menu(matrix);
